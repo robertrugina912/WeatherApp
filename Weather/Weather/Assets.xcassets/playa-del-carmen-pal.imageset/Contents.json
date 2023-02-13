@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "playa-del-carmen-pal.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
